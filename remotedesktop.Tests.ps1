@@ -40,9 +40,7 @@ InModuleScope $ModuleName {
        
         Context Output {
 
-            It Should create HTML File {
-        
-            } -Pending
+
         }
     }
 
