@@ -3,7 +3,7 @@ Powershell Remote Destop cmdlets
 
 ### Master
 
-Version: 1.0.0
+Version: 1.0.3
 
 [![Build status](https://ci.appveyor.com/api/projects/status/tafpv0a5354i1x93/branch/master?svg=true)](https://ci.appveyor.com/project/jeffbuenting/remotedesktop/branch/master)
 
